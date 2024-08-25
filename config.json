@@ -1,0 +1,12 @@
+{
+    "binance_api_key": "mXIunWri3lPn5RNHwucfeaPDdICgDviA87gghweaZjIfxvhCZRoEPvzYWcjNtAXY",
+    "binance_api_secret": "X8gLZ7HRAk8SgoqTv3PN6NL1lXHtFauZe1qpMYZAp3WE3fpInHOgru3KK9NLr1wK",
+    "telegram_bot_token": "7290631229:AAFcC2IGpE-A7p2xY0pQNjb4EX8KcElrkcg",
+    "telegram_chat_id": "488941196",
+    "analysis_interval": "5m",
+    "delta_percentage": 10,
+    "interest_percentage": 3,
+    "analysis_intervals": [
+        "1m"
+    ]
+}
